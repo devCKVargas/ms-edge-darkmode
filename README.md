@@ -7,11 +7,7 @@
 > Warning: Close your browser(s) first
 
 ```shell
-git clone https://github.com/devckvargas/msedge-darkmode && 
-cd msedge-darkmode &&
+git clone https://github.com/devckvargas/ms-edge-darkmode && 
+cd ms-edge-darkmode &&
 ./dark-mode.sh
 ```
-
-> Note: if you encounter permission denied <br>
-> Close your browsers <br>
-> Run the script w/ root privileges a.k.a **sudo**
